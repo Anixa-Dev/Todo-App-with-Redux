@@ -8,7 +8,7 @@ function TodoItem({ todo, index }) {
     const dispatch = useDispatch();
 
     return (
-        <li className='flex flex-col sm:flex-row sm:items-center justify-between border-b-1 border-gray-300 py-2 gap-4'>
+        <li className='flex flex-col sm:flex-row sm:items-center justify-between border-b-1 border-red-200 py-2 gap-4 '>
 
             <div className='flex items-center px-2'>
                 <span className='mr-4 text-gray-500'>{index + 1}</span>
