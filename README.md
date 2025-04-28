@@ -1,12 +1,55 @@
-# React + Vite
+# 📌 Todo App — React + Redux Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and functional **Todo Application** built with **React.js**, **Redux Toolkit**, and **Vite**.  
+It provides full control over todos with add, search, filter, toggle, delete, and complete functionalities.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 📝 **Add Todo:** Enter text and add tasks easily.
+- 🔍 **Search Todo:** Search todos based on keywords.
+- 📂 **Filter Todos:** View Default (All), Completed, and Incomplete tasks separately.
+- 🧹 **Mark All Completed:** Complete all pending tasks with a single click.
+- ✅ **Toggle Complete:** Mark a single task as completed/incomplete.
+- ❌ **Delete Todo:** Remove any todo individually.
+- 🗂️ **State Management:** Efficiently handled with Redux Toolkit.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Technologies Used
+- React.js
+- Redux Toolkit
+- Vite.js
+- JavaScript (ES6+)
+- CSS3 / TailwindCSS (for Styling)
+
+---
+
+## 🌐 Live Demo
+👉 [View Live Site Here](https://weather-anixa.netlify.app/)
+
+---
+## 🙋‍♂️ Author
+Anixa Bhayani
+
+[GitHub](https://github.com/Anixa-Dev)
+
+[LinkedIn](https://www.linkedin.com/in/anixa-bhayani-637263178/)
+
+---
+
+## 🔧 Installation and Setup Instructions
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Anixa-Dev/Todo-App-with-Redux.git
+
+1. Navigate to the project folder:
+cd todo-app
+
+2. Install the dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
