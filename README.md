@@ -26,7 +26,7 @@ It provides full control over todos with add, search, filter, toggle, delete, an
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Site Here](https://weather-anixa.netlify.app/)
+👉 [[View Live Site Here]](https://todo-anixa.netlify.app/)
 
 ---
 ## 🙋‍♂️ Author
