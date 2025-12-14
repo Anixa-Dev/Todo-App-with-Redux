@@ -19,6 +19,7 @@ function FilterButton() {
                 <option value="ALL">Default</option>
                 <option value="COMPLETED">Completed</option>
                 <option value="INCOMPLETE">Incomplete</option>
+                <option value="TEST">Test</option>
             </select>
             <button
                 onClick={() => dispatch(markAllCompeted())}
